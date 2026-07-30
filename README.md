@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi 👋,
+I'm Sanketh 
+A computer Science Engineering student passionate about transforming ideas into real-world solutions through technology.
+
+I have a strong interest in data analytics, software development, and machine learning, and I enjoy building projects that address real-world challenges.
+
+I am continuously expanding my knowledge by learning new tools and technologies, strengthening my programming skills, and gaining hands-on experience through practical projects.
+
+I am always eager to learn, collaborate with others, and contribute to innovative and impactful projects while growing as a technology professional.
 
 <!--
 **Sanketh9591/Sanketh9591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
